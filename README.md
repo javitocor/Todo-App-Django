@@ -26,7 +26,7 @@ Things you may want to c<!--
 
 # ToDo App
 
->  A Todo list app built with Django .
+>  A Todo list app with registration/login feature built with Django .
 
 Additional description about the project and its features.
 
